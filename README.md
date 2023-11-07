@@ -20,7 +20,7 @@ Simplilearn: <br>
 \> Business Analytics with Excel | September 8, 2023 <br>
 
 Skills for All by Cisco: <br>
-\> Data Analytics Essentials | Oct. 11, 2023 <br>
+\> [Data Analytics Essentials](https://www.credly.com/badges/409720e2-4ff5-4e45-a0a5-f9e3f6e484bb/public_url) | Oct. 11, 2023 <br>
 \> [Introduction to Data Science](https://www.credly.com/badges/ac12eadf-0b3e-446d-a0ff-53a53ee37e16/public_url) | Oct, 12, 2023 <br>
 
 
