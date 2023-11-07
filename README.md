@@ -21,7 +21,7 @@ Simplilearn: <br>
 
 Skills for All by Cisco: <br>
 \> Data Analytics Essentials | Oct. 11, 2023 <br>
-\> [Introduction to Data Science](url) | Oct, 12, 2023 <br>
+\> [Introduction to Data Science](https://www.credly.com/badges/ac12eadf-0b3e-446d-a0ff-53a53ee37e16/public_url) | Oct, 12, 2023 <br>
 
 
 ## SKILL SET
